@@ -1,0 +1,12 @@
+# 编译输出
+build/
+bin/
+devel/
+log/
+*.o
+*.so
+*.a
+
+# VSCode 配置
+.vscode/
+
